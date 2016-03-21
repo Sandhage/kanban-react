@@ -4,3 +4,5 @@ var app       = document.createElement('div');
 document.body.appendChild(app);
 
 app.appendChild(component());
+
+require('./main.css');
